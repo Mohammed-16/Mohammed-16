@@ -2,8 +2,6 @@
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="120"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="120"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="120"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="120"><br><br>
     <img src="https://little.kylerconway.com/images/golang-what.gif" width="300"><img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
 </p>
-<br>
-<br>
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 <h3 align="center">An Enthusiastic Blockchain/Frontend Developer</h3>
 
