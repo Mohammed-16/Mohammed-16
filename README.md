@@ -48,7 +48,5 @@
     <img align="left" alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
     <img align="left" alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
     <img align="left" alt="Polygon" width="70" height="33"  src="https://www.esports.net/wp-content/uploads/2021/10/polygon-cryptogaming.jpg"/>
-<p>&nbsp;</p>
-
-
+<p>&nbsp;</p><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-16&theme=blue-green" alt="mohammed-16" /></p>
