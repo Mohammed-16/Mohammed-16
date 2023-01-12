@@ -7,6 +7,18 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 <h3 align="center">An Enthusiastic Blockchain/Frontend Developer</h3>
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/mohammed-lokhandwala/" target="_blank">
+  <img  align="center" width="28px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png" />
+</a>&nbsp;
+<a href="https://twitter.com/0xMohammed16" target="_blank">
+  <img  align="center" width="28px" src="https://as1.ftcdn.net/v2/jpg/03/20/88/34/1000_F_320883488_PMmkQget359WtY6foB1xFN3Wcvus6WTM.jpg" />
+</a>&nbsp;
+<a href="mailto:mohammedlokhand4429@gmail.com">
+  <img align="center" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
+</a></p>
+
 ### 🔭 I’m
 - Building [Sunflowee Biztech](https://www.linkedin.com/company/sunfloweebiztech/mycompany/)
 
@@ -17,20 +29,6 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fhts1iCs3f7GwPeaMnNuRg-ShjYn3XoC/view?usp=sharing)
 
 - ⚡ Fun fact **Over 90% if the world's currency is digital.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohammed-lokhandwala/" target="_blank">
-  <img  align="left" width="28px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png" />
-</a>
-<a href="https://twitter.com/0xMohammed16" target="_blank">
-  <img  align="left" width="28px" src="https://as1.ftcdn.net/v2/jpg/03/20/88/34/1000_F_320883488_PMmkQget359WtY6foB1xFN3Wcvus6WTM.jpg" />
-</a>
-<a href="mailto:mohammedlokhand4429@gmail.com">
-  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
-</a></p>
-<br>
-
 
 ### Languages I use to talk to computer 🤔
 <img align="left" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">
