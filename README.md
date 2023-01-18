@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fhts1iCs3f7GwPeaMnNuRg-ShjYn3XoC/view?usp=sharing)
 
-- ⚡ Fun fact **Over 90% if the world's currency is digital.**
+- ⚡ Fun fact **Over 90% of the world's currency is digital.**
 
 ### Languages I use to talk to computer 🤔
 <img align="left" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">
