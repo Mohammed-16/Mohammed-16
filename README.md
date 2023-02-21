@@ -17,8 +17,7 @@
   <img align="center" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a></p>
 
-### 🔭 I’m
-- Building [Sunflowee Biztech](https://www.linkedin.com/company/sunfloweebiztech/mycompany/)
+### 🔭 I’m Frontend/Blockchain Developer.
 
 - 💬 Ask me about **Solidity, React Js, Angular**
 
