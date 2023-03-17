@@ -23,7 +23,7 @@
 
 - 📫 Participating in various Hackathons to BUIDL dApps.
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fhts1iCs3f7GwPeaMnNuRg-ShjYn3XoC/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18peX6Q-OfOR8-E3hEb1zwe6JAu3-3Xow/view?usp=sharing)
 
 - ⚡ Fun fact **Over 90% of the world's currency is digital.**
 
