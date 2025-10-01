@@ -23,13 +23,13 @@
 
 - 📫 Participating in various Hackathons to BUIDL dApps.
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18peX6Q-OfOR8-E3hEb1zwe6JAu3-3Xow/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://mohammedlokhandwala.netlify.app/assets/pdf/Mohammed%20Lokhandwala%20CV.pdf)
 
 - ⚡ Fun fact **Over 90% of the world's currency is digital.**
 
 ### Languages I use to talk to computer 🤔
 <img align="left" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">
-<img align="left" width="75px" height="30px" alt="Solidity" src="https://cointral.com/wp-content/uploads/2019/11/solidity-nedir.png"/>
+<!-- <img align="left" width="75px" height="30px" alt="Solidity" src="https://cointral.com/wp-content/uploads/2019/11/solidity-nedir.png"/> -->
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <p>&nbsp;</p>
 
