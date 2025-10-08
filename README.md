@@ -17,7 +17,7 @@
   <img align="center" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a></p>
 
-### 🔭 I’m building [Reward Hub](https://github.com/Mohammed-16/Reward-Hub).
+### 🔭 I’m building [ChoreoGraph](https://github.com/Mohammed-16/ChoreoGraph).
 
 - 💬 Ask me about **Solidity, React Js, Angular**
 
