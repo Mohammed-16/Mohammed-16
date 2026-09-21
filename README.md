@@ -1,46 +1,56 @@
+<h1 align="center">Hi, I'm Mohammed 👋</h1>
+<h3 align="center">AI Engineer building LLM applications over German legal text</h3>
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="120"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="120"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="120"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="120"><br><br>
-    <img src="https://little.kylerconway.com/images/golang-what.gif" width="300"><img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
+  M.Sc. Artificial Intelligence, BTU Cottbus-Senftenberg &nbsp;|&nbsp; Full-stack engineer &nbsp;|&nbsp; Berlin, Germany
 </p>
-<h1 align="center">Hi 👋, I'm Mohammed</h1>
-<h3 align="center">An Enthusiastic Blockchain/Frontend Developer</h3>
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/mohammed-lokhandwala/" target="_blank">
-  <img  align="center" width="28px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png" />
-</a>&nbsp;
-<a href="https://twitter.com/0xMohammed16" target="_blank">
-  <img  align="center" width="28px" src="https://as1.ftcdn.net/v2/jpg/03/20/88/34/1000_F_320883488_PMmkQget359WtY6foB1xFN3Wcvus6WTM.jpg" />
-</a>&nbsp;
-<a href="mailto:mohammedlokhand4429@gmail.com">
-  <img align="center" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
-</a></p>
+  <a href="https://www.linkedin.com/in/mohammed-lokhandwala/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://mohammedlokhandwala.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0D6679?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="mailto:mohammedlokhand4429@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://mohammedlokhandwala.netlify.app/assets/pdf/Mohammed%20Lokhandwala%20CV.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-PDF-555555?style=for-the-badge"/></a>
+</p>
 
-### 🔭 I’m building [ChoreoGraph](https://github.com/Mohammed-16/ChoreoGraph).
+---
 
-- 💬 Ask me about **Solidity, React Js, Angular**
+### 🔭 What I work on
 
-- 📫 Participating in various Hackathons to BUIDL dApps.
+I build AI assistants that answer from the official source text, and the pipelines that keep them correct when that text changes.
 
-- 📄 Know about my experiences [Resume](https://mohammedlokhandwala.netlify.app/assets/pdf/Mohammed%20Lokhandwala%20CV.pdf)
+At **LeistungsLotse** (Berlin, since Oct 2025), I work on an AI assistant that answers German benefit questions (Wohngeld, BAföG) from the actual law text:
 
-- ⚡ Fun fact **Over 90% of the world's currency is digital.**
+- 🤖 **Law-amendment agent:** a nightly agent that detects changes in the law, rewrites the affected paragraphs from the official text and opens a pull request, so a human reviews every change.
+- 📊 **LLM benchmark:** five LLMs compared on 10 real Wohngeld cases with an LLM judge, to choose the best model on accuracy, speed and cost.
+- 🧱 **Product side:** a Next.js/TypeScript chat app and a multi-tenant CMS with OCR (PDF/DOCX to Markdown), direct-to-bucket uploads and CI-based releases.
 
-### Languages I use to talk to computer 🤔
-<img align="left" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">
-<!-- <img align="left" width="75px" height="30px" alt="Solidity" src="https://cointral.com/wp-content/uploads/2019/11/solidity-nedir.png"/> -->
-<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<p>&nbsp;</p>
+### 🌱 What I'm learning next
 
-### Frameworks and Technologies I have worked with
-<img align="left" alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-	<img align="left" alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-    <img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-    <img align="left" alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
-    <p>&nbsp;</p>
-    <img align="left" alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-    <img align="left" alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
-    <img align="left" alt="Polygon" width="70" height="33"  src="https://www.esports.net/wp-content/uploads/2021/10/polygon-cryptogaming.jpg"/>
-<p>&nbsp;</p><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-16&theme=blue-green" alt="mohammed-16" /></p>
+- Deeper retrieval (RAG) and evaluation for LLM apps
+- Structured extraction, tracing and monitoring of model calls
+- Thesis ideas around evaluating LLMs on German administrative documents
+
+### 🛠️ Tech I use
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <br>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <br>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+**AI work:** LLM evaluation (LLM-as-judge), AI agents, OCR and document processing.
+
+### ⛓️ Before AI
+
+I spent about 1.5 years in Web3 (Sunflowee Biztech, India): Solidity smart contracts on Ethereum, dApp code audits, and React front ends. It taught me to write code where a mistake costs real money, and I bring that care to LLM systems.
+
+### 📫 Open to work
+
+I'm looking for a **company master's thesis** or a **full-time AI Engineer role in Germany**. The best way to reach me is [email](mailto:mohammedlokhand4429@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mohammed-lokhandwala/).
